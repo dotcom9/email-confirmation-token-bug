@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Description</h1>
+    <p>When an email confirmation token is obtained in the assembly in which it is used, confirmation succeeds.</p>
+    <p>When the token is obtained in a different assembly, it cannot be used.</p>
+</div>
+<div>
+    <a class="btn btn-primary" href="@Url.Action("GetLocal")">Get token locally</a>
+    <a class="btn btn-secondary" href="@Url.Action("GetApi")">Get token from Api</a>
+</div>
+<div class="text-danger">
+    @Html.ValidationSummary(false)
+</div>
