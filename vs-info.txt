@@ -1,0 +1,76 @@
+Microsoft Visual Studio Community 2019
+Version 16.5.5
+VisualStudio.16.Release/16.5.5+30104.148
+Microsoft .NET Framework
+Version 4.8.03752
+
+Installed Version: Community
+
+ASP.NET and Web Tools 2019   16.5.236.49856
+ASP.NET and Web Tools 2019
+
+ASP.NET Web Frameworks and Tools 2019   16.5.236.49856
+For additional information, visit https://www.asp.net/
+
+Azure App Service Tools v3.0.0   16.5.236.49856
+Azure App Service Tools v3.0.0
+
+Azure Functions and Web Jobs Tools   16.5.236.49856
+Azure Functions and Web Jobs Tools
+
+C# Tools   3.5.0-beta4-20153-05+20b9af913f1b8ce0a62f72bea9e75e4aa3cf6b0e
+C# components used in the IDE. Depending on your project type and settings, a different version of the compiler may be used.
+
+Common Azure Tools   1.10
+Provides common services for use by Azure Mobile Services and Microsoft Azure Tools.
+
+Dotfuscator Community Edition   5.42.0.9514-e0e25f754
+PreEmptive Protection - Dotfuscator CE
+
+IntelliCode Extension   1.0
+IntelliCode Visual Studio Extension Detailed Info
+
+Microsoft Azure Tools   2.9
+Microsoft Azure Tools for Microsoft Visual Studio 2019 - v2.9.30207.1
+
+Microsoft Continuous Delivery Tools for Visual Studio   0.4
+Simplifying the configuration of Azure DevOps pipelines from within the Visual Studio IDE.
+
+Microsoft JVM Debugger   1.0
+Provides support for connecting the Visual Studio debugger to JDWP compatible Java Virtual Machines
+
+Microsoft Library Manager   2.1.25+gdacdb9b7a1
+Install client-side libraries easily to any web project
+
+Microsoft MI-Based Debugger   1.0
+Provides support for connecting Visual Studio to MI compatible debuggers
+
+Microsoft Visual Studio Tools for Containers   1.1
+Develop, run, validate your ASP.NET Core applications in the target environment. F5 your application directly into a container with debugging, or CTRL + F5 to edit & refresh your app without having to rebuild the container.
+
+NuGet Package Manager   5.5.0
+NuGet Package Manager in Visual Studio. For more information about NuGet, visit https://docs.nuget.org/
+
+ProjectServicesPackage Extension   1.0
+ProjectServicesPackage Visual Studio Extension Detailed Info
+
+SQL Server Data Tools   16.0.62003.05170
+Microsoft SQL Server Data Tools
+
+TypeScript Tools   16.0.20225.2001
+TypeScript Tools for Microsoft Visual Studio
+
+Visual Basic Tools   3.5.0-beta4-20153-05+20b9af913f1b8ce0a62f72bea9e75e4aa3cf6b0e
+Visual Basic components used in the IDE. Depending on your project type and settings, a different version of the compiler may be used.
+
+Visual F# Tools 10.8.0.0 for F# 4.7   16.5.0-beta.20181.6+85af456066acd4e76d2bc7821b44a325e46f2fca
+Microsoft Visual F# Tools 10.8.0.0 for F# 4.7
+
+Visual Studio Code Debug Adapter Host Package   1.0
+Interop layer for hosting Visual Studio Code debug adapters in Visual Studio
+
+Visual Studio Container Tools Extensions (Preview)   1.0
+View, manage, and diagnose containers within Visual Studio.
+
+Visual Studio Tools for Containers   1.0
+Visual Studio Tools for Containers
